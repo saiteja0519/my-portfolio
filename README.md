@@ -1,98 +1,70 @@
-# Borra Kasi Naga Sai Lakshmi — Developer Portfolio
 
-A premium, responsive personal portfolio website built with vanilla HTML5, CSS3, and JavaScript.
+# Hi, I'm Sai Lakshmi 👋
 
-## Features
+### Software Engineer | Python Developer | AI/ML Enthusiast
 
-- **Dark cinematic theme** with purple & electric-blue gradient accents
-- **Glassmorphism cards** with subtle hover effects
-- **Animated typing effect** for professional titles
-- **Fully responsive** — mobile, tablet, and desktop
-- **Smooth scroll** with reveal animations
-- **Sticky navigation** with active section highlighting
-- **Hamburger menu** for mobile
-- **Back-to-top button**
-- **Contact form** with client-side validation
-- **SEO metadata** and custom SVG favicon
-- **Accessible design** with `prefers-reduced-motion` support
+🎓 B.Tech Information Technology | 2026 Graduate
 
-## Project Structure
+I'm interested in building practical software solutions, backend systems and AI-powered applications.
 
-```
-my-portfolio/
-├── index.html              # Main HTML
-├── css/
-│   ├── style.css           # Main stylesheet (~30KB)
-│   └── responsive.css      # Responsive breakpoints
-├── js/
-│   └── script.js           # Interactivity & animations
-├── assets/
-│   ├── profile.png         # ← Add your photo here
-│   ├── resume.pdf          # ← Add your resume here
-│   └── icons/
-│       └── favicon.svg     # Custom SVG favicon
-└── README.md
-```
+- 🔭 Building AI-powered applications and backend systems
+- 🤖 Exploring AI/ML, GenAI and intelligent agents
+- 💻 Solving Data Structures & Algorithms problems
+- 🌱 Currently improving Python, FastAPI and Machine Learning
+- 📫 Email: saitejaborra555@gmail.com
 
-## Setup
+---
 
-1. **Add your profile photo** — place your image as `assets/profile.png`
-2. **Add your resume** — place your resume PDF as `assets/resume.pdf`
-3. Open `index.html` in a browser — no build tools required
+## 🛠️ Tech Stack
 
-## Contact Form Backend
+**Languages:** Python | SQL | JavaScript
 
-The contact form validates inputs client-side but does **not** send emails without a backend. To enable email delivery, choose one of:
+**Backend:** FastAPI | REST APIs
 
-| Service | Setup |
-|---------|-------|
-| **Formspree** | Change `<form>` action to `https://formspree.io/f/YOUR_ID` and set `method="POST"` |
-| **EmailJS** | Add the EmailJS SDK and configure `emailjs.send()` in `script.js` |
-| **Netlify Forms** | Add `netlify` attribute to the `<form>` tag |
+**Frontend:** React | HTML | CSS
 
-## Deploy to Vercel
+**Databases:** MySQL | SQLite | PostgreSQL
 
-### Option A — Vercel CLI
+**AI/ML:** Pandas | OpenCV | MediaPipe | LangChain
 
-```bash
-# Install Vercel CLI
-npm install -g vercel
+**Tools:** Git | GitHub | Docker | Linux
 
-# Navigate to project folder
-cd my-portfolio
+---
 
-# Deploy
-vercel
+## 🚀 Featured Projects
 
-# Follow prompts — select your account, confirm settings
-# Vercel auto-detects static sites. No framework needed.
+### 🤖 AI Code Review Agent
+Automated code review system for identifying bugs, security issues and code quality problems.
 
-# Deploy to production
-vercel --prod
-```
+[View Repository](https://github.com/saiteja0519/codeguard-ai)
 
-### Option B — GitHub + Vercel Dashboard
+### 🐧 Linux Performance Telemetry Analyzer
+Python-based monitoring and bottleneck analysis tool for Linux system metrics.
 
-1. Push this project to a GitHub repository
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-3. Click **"New Project"** → Import your repository
-4. Framework Preset: **Other** (static)
-5. Build Command: *(leave blank)*
-6. Output Directory: `.` (root)
-7. Click **Deploy**
+[View Repository](https://github.com/saiteja0519/linux-performance-telemetry-analyzer)
 
-### Option C — GitHub Pages
+### 💳 PayPilot AI
+Full-stack hackathon project involving payment workflows and backend integrations.
 
-```bash
-# Push to GitHub, then go to repo Settings → Pages
-# Source: Deploy from branch → main → / (root)
-# Your site will be live at https://username.github.io/repo-name
-```
+[View Repository](https://github.com/saiteja0519/PayPal-Hackathon)
 
-## Browser Support
+### 🎓 Classroom Attention Monitoring System
+Computer vision-based classroom monitoring using facial landmarks and behavioral signals.
 
-Chrome, Firefox, Safari, Edge (latest 2 versions)
+[View Repository](https://github.com/saiteja0519/AI-MONITORING-SYSYTEM)
 
-## License
+---
 
-© 2026 Borra Kasi Naga Sai Lakshmi. All rights reserved.
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja0519&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja0519&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/kasi-naga-sai-lakshmi-borra-73724b291)
+
+[GitHub](https://github.com/saiteja0519)
